@@ -1,0 +1,15 @@
+R1File	SampleID
+fastq/YD-1_S1_L001_R1_001.fastq	DNA
+fastq/YD-2_S2_L001_R1_001.fastq	R0
+fastq/YD-3_S3_L001_R1_001.fastq	WT-R1
+fastq/YD-4_S4_L001_R1_001.fastq	WT-R2
+fastq/YD-5_S5_L001_R1_001.fastq	WT-R3
+fastq/YD-6_S6_L001_R1_001.fastq	I45M-R1
+fastq/YD-7_S7_L001_R1_001.fastq	I45M-R2
+fastq/YD-8_S8_L001_R1_001.fastq	I45M-R3
+fastq/YD-9_S9_L001_R1_001.fastq	I45T-R1
+fastq/YD-10_S10_L001_R1_001.fastq	I45T-R2
+fastq/YD-11_S11_L001_R1_001.fastq	I45T-R3
+fastq/YD-12_S12_L001_R1_001.fastq	I45F-R1
+fastq/YD-13_S13_L001_R1_001.fastq	I45F-R2
+fastq/YD-14_S14_L001_R1_001.fastq	I45F-R3
